@@ -1,2 +1,2 @@
-# CV--Resume
-Resume
+# CV-Resume
+Personal Info
