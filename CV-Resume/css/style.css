@@ -110,6 +110,27 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.fa-envelope,
+.fa-globe-africa {
+    color: #0bb5f4;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-twitter-square {
+    color: #00acee;
+}
+
+.fa-github-square {
+    color: #333;
+}
+
+.fa-linkedin {
+    color: #4078c0;
+}
+
 .resume .resume_left ul li .data {
     color: #b1eaff;
     text-decoration: none;
@@ -177,7 +198,7 @@ body {
 
 .more_link {
     text-decoration: underline;
-    text-decoration-color: aquamarine;
+    text-decoration-color: #b1eaff;
 }
 
 .resume .resume_right ul li:last-child .info {
