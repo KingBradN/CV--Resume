@@ -132,6 +132,12 @@ body {
     color: #4078c0;
 }
 
+.fa-whatsapp:hover {
+    background-color: #25D366;
+    color: #b1eaff;
+    border-radius: 5%;
+}
+
 .resume .resume_left ul li .data {
     color: #b1eaff;
     text-decoration: none;
