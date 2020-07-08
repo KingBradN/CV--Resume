@@ -102,7 +102,7 @@ body {
     position: relative;
 }
 
-.resume .resume_left ul li:nth-child(2) .icon:hover,
+.resume .resume_left .resume_info ul li:nth-child(2) .icon:hover,
 .fa-whatsapp:hover {
     background: #25D366;
     color: #fff;
