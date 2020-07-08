@@ -128,15 +128,22 @@ body {
     color: #0bb5f4;
 }
 
-.fa-facebook-square {
+.fa-facebook,
+.fa-twitter,
+.fa-github,
+.fa-linkedin {
+    font-size: 20px;
+}
+
+.fa-facebook {
     color: #3b5998;
 }
 
-.fa-twitter-square {
+.fa-twitter {
     color: #00acee;
 }
 
-.fa-github-square {
+.fa-github {
     color: #333;
 }
 
