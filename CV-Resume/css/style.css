@@ -106,6 +106,7 @@ body {
 .fa-whatsapp:hover {
     background: #25D366;
     color: #fff;
+    font-size: 26px;
     /* border-radius: 5%; */
 }
 
@@ -117,9 +118,13 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.fa-envelope,
 .fa-globe-africa,
 .fa-whatsapp {
+    color: #0bb5f4;
+    font-size: 20px;
+}
+
+.fa-envelope {
     color: #0bb5f4;
 }
 
@@ -138,13 +143,6 @@ body {
 .fa-linkedin {
     color: #4078c0;
 }
-
-
-/* .fa-whatsapp:hover {
-    background-color: #25D366;
-    color: #b1eaff;
-    border-radius: 5%;
-} */
 
 .resume .resume_left ul li .data {
     color: #b1eaff;
